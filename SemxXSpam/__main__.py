@@ -18,7 +18,7 @@ for name in files:
         load_plugins(plugin_name.replace(".py", ""))
 
 print("SMEXY X Bot Spam Successfully Deployed !!")
-print("Enjoy!)
+print("Enjoy!")
 
 if __name__ == "__main__":
     MK1.run_until_disconnected()
