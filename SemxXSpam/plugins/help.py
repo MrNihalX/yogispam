@@ -94,7 +94,7 @@ Command :
 2) {hl}dreplyraid <username>
 
 
-**© @rudra_hun_vaii**
+**© @Mr_Nihal9**
 """
 
 spam_msg = f"""
@@ -123,7 +123,7 @@ Command :
 Command :
 1) {hl}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-** © @rudra_hun_vaii**
+** © @Mr_Nihal9**
 """                     
            
            
